@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw15</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="input_word">input_word</string>
+    <string name="word_count">word_count</string>
+    <string name="word_list">word_list</string>
+</resources>
